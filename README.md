@@ -1,2 +1,3 @@
 # SimpleAV
-Simple MiniFilter AV with 4 signatures :-)
+MiniFilter and User App
+Disable execution of infected files
